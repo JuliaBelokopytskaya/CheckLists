@@ -4,7 +4,7 @@ http://itcareer.pythonanywhere.com
 # Окружение
 Windows 10 Pro, Google Chrome 102.0.5005.61
 
-# Чеклисты и баг-репорты формы 
+# Чеклист и баг-репорты формы 
 https://docs.google.com/spreadsheets/d/1BQmzGdyxc2Slj7pxjabL4yktVkkiILf80D9Kicdaw8Q/edit?usp=sharing
 
 # Требования
