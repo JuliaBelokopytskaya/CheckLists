@@ -1,6 +1,3 @@
-# URL
-https://currency.com/ru
-
 # Environment
 Redmi Note 8 Pro, Android version 10 QP1A.190711.020, OS MIUI 12.0.8
 
